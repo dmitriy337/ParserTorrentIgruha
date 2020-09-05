@@ -18,4 +18,5 @@ def main(PageId):
     
 for i in range(1,95):
     main(i)
-open('Table.txt','a').write(str(table))  
+open('Table.txt','a').write(str(table))
+#Fdfgdf
